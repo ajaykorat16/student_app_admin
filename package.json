@@ -1,15 +1,13 @@
 {
-  "name": "Student_app_admin",
-  "version": "0.1",
-  "description": "Student app Admin",
+  "name": "student-admin-react",
+  "version": "1.0.0",
+  "description": "Student app admin panel in react",
   "author": "Ajay Korat",
-  "homepage": "",
-  "copyright": "",
   "license": "MIT",
   "private": true,
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:ajaykorat16/student_app_admin.git"
   },
   "dependencies": {
     "@coreui/coreui": "^2.1.12",
@@ -50,7 +48,7 @@
     "eject": "react-scripts eject"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/ajaykorat16/student_app_admin/issues"
   },
   "eslintConfig": {
     "extends": "react-app"
